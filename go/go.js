@@ -2,7 +2,6 @@ function setup() {
     initializeFields();
     createCanvas(500, 500);
 }
-
 // 旗子的座標 陣列
 var bx;
 
